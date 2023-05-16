@@ -1,7 +1,7 @@
 # Banking-front
 
 Application bancaire (côté front-end) </br>
-Technologies et langages utilisés : Angular | Typescript | Chart
+Technologies et langages utilisés : Angular | Typescript | Chart | Bootstrap
 <br>
 <br>
 
